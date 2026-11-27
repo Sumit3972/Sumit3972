@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Sumit Mehta — AI Systems, Android & Full-Stack Engineer" width="100%" />
+
 
 <br />
 
