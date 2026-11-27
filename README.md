@@ -14,7 +14,16 @@
 
 ### About Me
 
-I build **real-world AI systems, on-device voice agents, and full-stack software**—from training 284 KB offline neural wake-word models and shipping closed-loop Android automation agents to writing concurrent Go backends and TypeScript/JavaScript web tools.
+<table>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img src="assets/avatar.png" width="132" alt="Sumit Mehta" />
+    </td>
+    <td valign="middle">
+      I build <b>real-world AI systems, on-device voice agents, and full-stack software</b>—from training 284 KB offline neural wake-word models and shipping closed-loop Android automation agents to writing concurrent Go backends and TypeScript/JavaScript web tools.
+    </td>
+  </tr>
+</table>
 
 - 🎙️ **Currently shipping:** [**Sarah Voice Agent**](https://github.com/Sumit3972/sarah-voice-agent) — an open-source, hands-free Android AI assistant powered by a custom offline 16-bit `BC-ResNet-8` ONNX wake-word engine, real-time STT/TTS, Accessibility Set-of-Marks Vision, and rootless Shizuku automation.
 - 🧠 **Sharpening daily:** Systems engineering, **C++ & Data Structures / Algorithms (DSA)**, edge-AI inference optimization, and autonomous agent architectures.
